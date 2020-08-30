@@ -1,6 +1,10 @@
 # EVA-Assignment-6-Regularization-and-BN
 
-Three Models were built and tested using a Single code, used a for loop to ierate through the following 3 Models
+Dataset = MNIST
+
+Number of epochs = 25
+
+Three CNN Models were built and tested using a Single code, used a for loop to ierate through the following 3 Models
 1) L2 Regularization with BN (Batch Normalization)
 2) L1 Regularization with BN 
 3) L1 with L2 and with BN
